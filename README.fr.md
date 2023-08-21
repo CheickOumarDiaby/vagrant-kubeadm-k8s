@@ -5,7 +5,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/)
 
-Language : [**Anglais**](https://github.com/CheickOumarDiaby/vagrant-kubeadm-k8s/README.md) or [**Français**](https://github.com/CheickOumarDiaby/vagrant-kubeadm-k8s/README.fr.md)
+Language : [**Anglais**](./README.md) or [**Français**](./README.fr.md)
 
 ## Prérequis
 
