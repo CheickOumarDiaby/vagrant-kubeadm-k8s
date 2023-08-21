@@ -1,0 +1,4 @@
+# Vagrant directories
+.vagrant/
+project/
+configs/
